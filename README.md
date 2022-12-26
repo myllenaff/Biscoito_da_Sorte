@@ -1,6 +1,6 @@
 # EXPLORER Biscoito da Sorte
 
-![preview](./.github/Biscoito%20da%20Sorte%20-%20show.mp4)
+![preview](./.github/Biscoito.gif)
 
 > Explorer - Rocketseat
 
